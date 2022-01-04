@@ -32,7 +32,7 @@ Here are some ideas to get you started: -->
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-React-61dafb" alt="React" /></a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Vue-41b883" alt="Vue" /></a>
 <img align="left" src="https://img.shields.io/badge/-Git-f74e27" alt="Git" />
-<br/>
+<br/><br/>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Pycharm-0ca7da" alt="Pycharm" /></a>
 <a href="https://www.jetbrains.com/clion/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Clion-23cfa3" alt="Clion" /></a>
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-WebStorm-0adce2" alt="WebStorm" /></a>
