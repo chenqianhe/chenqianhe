@@ -19,5 +19,6 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           plugin_languages: yes
+          plugin_languages_threshold: yes
           plugin_languages_other: yes
           
