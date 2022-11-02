@@ -31,15 +31,19 @@ Here are some ideas to get you started: -->
 <img align="left" src="https://img.shields.io/badge/-JavaScript-efc900" alt="JS" />
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-React-61dafb" alt="React" /></a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Vue-41b883" alt="Vue" /></a>
-<img align="left" src="https://img.shields.io/badge/-Git-f74e27" alt="Git" />
-<!-- <br/> -->
+<br/>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Pycharm-0ca7da" alt="Pycharm" /></a>
 <a href="https://www.jetbrains.com/clion/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Clion-23cfa3" alt="Clion" /></a>
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-WebStorm-0adce2" alt="WebStorm" /></a>
+<a href="https://www.jetbrains.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-JetbrainsTool-eb5656" alt="JetbrainsTool" /></a>
 <a href="https://www.visualstudio.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Visual Studio-cc96f9" alt="VS" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Visual Studio Code-23aaf2" alt="VScode" /></a>
+<br/>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Git-f74e27" alt="Git" /></a>
 <a href="https://www.apifox.cn/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Apifox-ff3a7b" alt="Apifox" /></a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Figma-0acf83" alt="Figma" /></a>
+<a href="https://www.navicat.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Navicat-f3d96d" alt="Navicat" /></a>
+<a href="https://typora.io/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Typora-000000" alt="Typora" /></a>
 <br/>
 
 ### 📊 Github Status
