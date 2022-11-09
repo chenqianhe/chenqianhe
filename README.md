@@ -53,3 +53,6 @@ Here are some ideas to get you started: -->
 ### ✨ Contribute To
 
 [![FastDeploy](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=FastDeploy&show_owner=true)](https://github.com/PaddlePaddle/FastDeploy)
+
+<!-- [![autocut](https://github-readme-stats.vercel.app/api/pin/?username=mli&repo=autocut&show_owner=true)](https://github.com/mli/autocut) -->
+
