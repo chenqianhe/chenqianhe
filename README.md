@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-### 🔨 Languages and Tools:
+### 🔨 Languages and Tools
 
 <p>
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/-Python-224969?style=flat-square" alt="Python" /></a>
@@ -48,9 +48,12 @@ Here are some ideas to get you started: -->
 <!-- <br/> -->
 </p>
 
-### 🔎 Github Status
+<div align="center">
+   <h2>🔎 Github Status</h1>
+   
+   <img src="./metrics.classic.svg" /> 
+</div>
 
-<img src="./metrics.classic.svg" />
 
 ### ✨ Contribute To and Focus On
 
