@@ -47,11 +47,11 @@ Here are some ideas to get you started: -->
 <br/>
 
 
-### 📊 Github Status
+### 🔎 Github Status
 
 <img src="./metrics.classic.svg" />
 
-### ✨ Contribute To
+### ✨ Contribute To and Focus On
 
 [![FastDeploy](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=FastDeploy&show_owner=true)](https://github.com/PaddlePaddle/FastDeploy)
 [![autocut](https://github-readme-stats.vercel.app/api/pin/?username=mli&repo=autocut&show_owner=true)](https://github.com/mli/autocut)
