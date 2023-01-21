@@ -24,28 +24,29 @@ Here are some ideas to get you started: -->
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Python-224969" alt="Python" /> </a>
-<a href="https://www.paddlepaddle.org.cn/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-PaddlePaddle-1527c2" alt="PaddlePaddle" /></a>
-<img align="left" src="https://img.shields.io/badge/-C%2B%2B-6093c8" alt="cpp" />
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-TypeScript-294e80" alt="TS" /></a>
-<img align="left" src="https://img.shields.io/badge/-JavaScript-efc900" alt="JS" />
-<a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-React-61dafb" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Vue-41b883" alt="Vue" /></a>
-<br/>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Pycharm-0ca7da" alt="Pycharm" /></a>
-<a href="https://www.jetbrains.com/clion/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Clion-23cfa3" alt="Clion" /></a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-WebStorm-0adce2" alt="WebStorm" /></a>
-<a href="https://www.jetbrains.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-JetbrainsTool-eb5656" alt="JetbrainsTool" /></a>
-<a href="https://www.visualstudio.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Visual Studio-cc96f9" alt="VS" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Visual Studio Code-23aaf2" alt="VScode" /></a>
-<br/>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Git-f74e27" alt="Git" /></a>
-<a href="https://www.apifox.cn/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Apifox-ff3a7b" alt="Apifox" /></a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Figma-0acf83" alt="Figma" /></a>
-<a href="https://www.navicat.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Navicat-f3d96d" alt="Navicat" /></a>
-<a href="https://typora.io/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Typora-000000" alt="Typora" /></a>
-<br/>
-
+<p>
+<a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/-Python-224969?style=flat-square" alt="Python" /></a>
+<a href="https://www.paddlepaddle.org.cn/" target="_blank"> <img src="https://img.shields.io/badge/-PaddlePaddle-1527c2?style=flat-square" alt="PaddlePaddle" /></a>
+<img src="https://img.shields.io/badge/-C%2B%2B-6093c8?style=flat-square" alt="cpp" />
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-294e80?style=flat-square" alt="TS" /></a>
+<img src="https://img.shields.io/badge/-JavaScript-efc900?style=flat-square" alt="JS" />
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square" alt="React" /></a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/-Vue-41b883?style=flat-square" alt="Vue" /></a>
+<!-- <br/> -->
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/-Pycharm-0ca7da?style=flat-square" alt="Pycharm" /></a>
+<a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://img.shields.io/badge/-Clion-23cfa3?style=flat-square" alt="Clion" /></a>
+<a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://img.shields.io/badge/-WebStorm-0adce2?style=flat-square" alt="WebStorm" /></a>
+<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://img.shields.io/badge/-JetbrainsTool-eb5656?style=flat-square" alt="JetbrainsTool" /></a>
+<a href="https://www.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/-Visual Studio-cc96f9?style=flat-square" alt="VS" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/-Visual Studio Code-23aaf2?style=flat-square" alt="VScode" /></a>
+<!-- <br/> -->
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/-Git-f74e27?style=flat-square" alt="Git" /></a>
+<a href="https://www.apifox.cn/" target="_blank"> <img src="https://img.shields.io/badge/-Apifox-ff3a7b?style=flat-square" alt="Apifox" /></a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/-Figma-0acf83?style=flat-square" alt="Figma" /></a>
+<a href="https://www.navicat.com/" target="_blank"> <img src="https://img.shields.io/badge/-Navicat-f3d96d?style=flat-square" alt="Navicat" /></a>
+<a href="https://typora.io/" target="_blank"> <img src="https://img.shields.io/badge/-Typora-000000?style=flat-square" alt="Typora" /></a>
+<!-- <br/> -->
+</p>
 
 ### 🔎 Github Status
 
