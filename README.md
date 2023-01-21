@@ -50,13 +50,63 @@ Here are some ideas to get you started: -->
 
 <div align="center">
    <h2>🔎 Github Status</h1>
-   
+
    <img src="./metrics.classic.svg" /> 
 </div>
+
+### 👉 New Projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📣 Intro</b></td>
+       <td><b>🔖 Other Information</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/chenqianhe/VAD-addon"><b>VAD-addon</b></a></td>
+      <td>Provides an addon that can perform VAD model reasoning in nodes and electric environments.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/chenqianhe/VAD-addon"><b>VAD-addon</b></a></td>
+      <td>Provides an addon that can perform VAD model reasoning in nodes and electric environments.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/chenqianhe/codegenJupyterLabExt"><b>codegenJupyterLabExt</b></a></td>
+      <td>A code generation JupyterLab extension based on CodeGen model and PaddlePaddle.</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### ✨ Contribute To and Focus On
 
-[![FastDeploy](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=FastDeploy&show_owner=true)](https://github.com/PaddlePaddle/FastDeploy)
-[![autocut](https://github-readme-stats.vercel.app/api/pin/?username=mli&repo=autocut&show_owner=true)](https://github.com/mli/autocut)
-
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>📣 Intro</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/mli/autocut"><b>Autocut</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mli/autocut?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mli/autocut?style=flat-square&labelColor=343b41"/></td>
+      <td>✂Use text editor to cut videos.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PaddlePaddle/FastDeploy"><b>FastDeploy</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/PaddlePaddle/FastDeploy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/PaddlePaddle/FastDeploy?style=flat-square&labelColor=343b41"/></td>
+      <td>⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit.</td>
+    </tr>
+  </tbody>
+</table>
