@@ -108,5 +108,11 @@ Here are some ideas to get you started: -->
       <td><img alt="Forks" src="https://img.shields.io/github/forks/PaddlePaddle/FastDeploy?style=flat-square&labelColor=343b41"/></td>
       <td>⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/ggerganov/whisper.cpp"><b>whisper.cpp</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ggerganov/whisper.cpp?style=flat-square&labelColor=343b41"/></td>
+      <td>🏅Port of OpenAI's Whisper model in C/C++.</td>
+    </tr>
   </tbody>
 </table>
