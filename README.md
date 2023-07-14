@@ -66,6 +66,11 @@ Here are some ideas to get you started: -->
   </thead>
   <tbody>
     <tr>
+       <td><a href="https://github.com/chenqianhe/SoulEcho"><b>SoulEcho</b></td>
+       <td>Connect Souls, Echo familiar Roles.</td>
+       <td>Hackday Award Winning Project</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/DataVizU/RumorLens"><b>RumorLens</b></a></td>
       <td>Interactive Analysis and Validation of Suspected Rumors on Social Media.</td>
       <td><a href="https://dl.acm.org/doi/10.1145/3491101.3519712"><b>Paper</b></a></td>
