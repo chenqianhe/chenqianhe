@@ -48,6 +48,13 @@ Here are some ideas to get you started: -->
 <!-- <br/> -->
 </p>
 
+### 🔔 My Websites
+
+- [SciColor](https://scicolor.datavizu.app): A website designed to create a color system specifically for scientific display.
+- [Paper Tools](https://papertools.intrailblaze.com): A toolset link website focused on Latex paper writing.
+- [Functional Programming Slides](https://fp-slides.intrailblaze.com)
+- [DataVisTemplateProject](https://github.com/DataVizU/DataVisTemplateProject): A data visualization template project repository.
+
 <div align="center">
    <h2>🔎 Github Status</h1>
 
