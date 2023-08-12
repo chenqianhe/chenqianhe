@@ -12,10 +12,10 @@ I love exploring new tech stack 💻 and leveraging them to build something mean
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently studying in Huazhong University of science and technology
+- 🔭 I am currently working full-time on open source projects([Autocut](https://github.com/mli/autocut), [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) and my own projects)
 - 📔 Most of my blogs are available on [Zhihu](https://www.zhihu.com/people/chen-qian-he-52/columns)
 - 💬 Ask me about technical problems or good ideas, and I'll be happy to communicate with you
-- 📫 How to reach me: chenqianhe01@qq.com
+- 📫 How to reach me: qianhechen01@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 🌱 I’m currently learning ... -->
@@ -55,11 +55,17 @@ Here are some ideas to get you started: -->
 - [Functional Programming Slides](https://fp-slides.intrailblaze.com)
 - [DataVisTemplateProject](https://github.com/DataVizU/DataVisTemplateProject): A data visualization template project repository.
 
-<div align="center">
-   <h2>🔎 Github Status</h1>
+<!-- <div align="center"> -->
+<!--    <h2>🔎 Github Status</h1> -->
+<!--  -->
+<!--    <img src="./metrics.classic.svg" />  -->
+<!-- </div> -->
 
-   <img src="./metrics.classic.svg" /> 
-</div>
+### 🫶 Seeking Sponsorship
+
+|WeChat|AliPay|Binance(ID: 453226889)|
+|:---:|:---:|:---:|
+|![wechat](https://github.com/chenqianhe/chenqianhe/assets/54462604/a998ff76-12c8-4e89-a9da-6606e6fa56bd)|![alipay](https://github.com/chenqianhe/chenqianhe/assets/54462604/7eaff989-5cd5-4fd2-bf6d-8d5888a7be6a)|![binance](https://github.com/chenqianhe/chenqianhe/assets/54462604/bad55651-e899-4715-8a51-a486a045b831)|
 
 ### 👉 New Projects
 
