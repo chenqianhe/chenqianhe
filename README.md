@@ -63,6 +63,8 @@ Here are some ideas to get you started: -->
 
 ### 🫶 Seeking Sponsorship
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C4NN9RQ)
+
 |WeChat|AliPay|Binance(ID: 453226889)|
 |:---:|:---:|:---:|
 |![wechat](https://github.com/chenqianhe/chenqianhe/assets/54462604/a998ff76-12c8-4e89-a9da-6606e6fa56bd)|![alipay](https://github.com/chenqianhe/chenqianhe/assets/54462604/7eaff989-5cd5-4fd2-bf6d-8d5888a7be6a)|![binance](https://github.com/chenqianhe/chenqianhe/assets/54462604/bad55651-e899-4715-8a51-a486a045b831)|
