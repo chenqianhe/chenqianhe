@@ -15,7 +15,9 @@ Here are some ideas to get you started: -->
 - 🔭 I am currently working full-time on open source projects([Autocut](https://github.com/mli/autocut), [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) and my own projects)
 - 📔 Most of my blogs are available on [Zhihu](https://www.zhihu.com/people/chen-qian-he-52/columns)
 - 💬 Ask me about technical problems or good ideas, and I'll be happy to communicate with you
-- 📫 How to reach me: qianhechen01@gmail.com
+- 📫 How to reach me: qianhechen01@gmail.com | 1278095698@qq.com
+- Request JetBrains OSS development license ID = 22082023/12328132
+
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 🌱 I’m currently learning ... -->
