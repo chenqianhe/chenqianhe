@@ -80,6 +80,11 @@ Here are some ideas to get you started: -->
     </tr>
   </thead>
   <tbody>
+     <tr>
+       <td><a href="https://github.com/DataVizU/JobWantedAnalysis-ChinaVis2024"><b>Job Wanted Analysis</b></td>
+       <td>Analyze and Visualize job posts data.</td>
+       <td>Nomination Award for ChinaVis 2024</td>
+    </tr>
     <tr>
        <td><a href="https://github.com/chenqianhe/SoulEcho"><b>SoulEcho</b></td>
        <td>Connect Souls, Echo familiar Roles.</td>
